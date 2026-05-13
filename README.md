@@ -95,6 +95,7 @@ Configure the application using environment variables in `.env`:
 ```env
 # Required
 GROQ_API_KEY=your-groq-api-key-here
+TAVILY_API_KEY=yout-tavily-api-key-here
 
 # Optional
 LLM_MODEL=meta-llama/llama-4-scout-17b-16e-instruct
